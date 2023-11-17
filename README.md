@@ -18,3 +18,6 @@ output file path for positions
 output file path for orders
 
 The execution of this method produces the positions.txt file containing the properties of the particles at each temporal step and va.txt containing the order values at each temporal step.
+
+Video of animation:
+https://youtu.be/v5MkIHmjmAA?si=8e-Me6R1nWiLmMfU
